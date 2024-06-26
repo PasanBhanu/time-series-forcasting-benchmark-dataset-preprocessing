@@ -1,4 +1,7 @@
 rawdata
-processeddata
-bin
+bin/recreate
 .ipynb_checkpoints
+temp/*.csv
+temp/*.zip
+temp/*.txt
+.idea
