@@ -1,5 +1,6 @@
 rawdata
 bin/recreate
+bin/read
 .ipynb_checkpoints
 temp/*.csv
 temp/*.zip
