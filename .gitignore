@@ -1,4 +1,6 @@
-rawdata
+rawdata/wc/*.gz
+rawdata/nasa/NASA_access_log_Aug95
+rawdata/nasa/NASA_access_log_Jul95
 bin/recreate
 bin/read
 .ipynb_checkpoints
