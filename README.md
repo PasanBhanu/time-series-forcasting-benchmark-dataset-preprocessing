@@ -5,10 +5,10 @@ This is a data preprocessing algorithm for widely used data sets provided by ["T
 The supported datasets are,
 - WorldCup98 Dataset - [View](https://ita.ee.lbl.gov/html/contrib/WorldCup.html)
 
-  1.3 billion Web requests recorded at servers for the 1998 World Cup.
+  1,352,804,107 web requests recorded at servers for the 1998 World Cup.
 - NASA HTTP Logs Dataset - [View](https://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html)
 
-  two months of HTTP logs from a busy WWW server.
+  3,461,612  HTTP logs from a busy WWW server for two months.
 
 This algorithm process the both data sets and create CSV for time series analysis. CSV file format is given below.
 
