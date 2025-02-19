@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code in your research or software, please cite it as below."
+authors:
+- family-names: "Guruge"
+  given-names: "Pasan Bhanu"
+  orcid: "https://orcid.org/0009-0008-2481-673X"
+- family-names: "Priyadarshana"
+  given-names: "Y H P P"
+  orcid: "https://orcid.org/0000-0002-4319-3944"
+title: "Time Series Forecasting Benchmark Dataset - NASA HTTP, WorldCup98"
+version: 1.0.0
+date-released: 2025-02-19
+url: "https://github.com/PasanBhanu/time-series-forcasting-benchmark-dataset-preprocessing"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Guruge"
+    given-names: "Pasan Bhanu"
+    orcid: "https://orcid.org/0009-0008-2481-673X"
+  - family-names: "Priyadarshana"
+    given-names: "Y H P P"
+    orcid: "https://orcid.org/0000-0002-4319-3944"
+  doi: "10.3389/fcomp.2025.1509165"
+  journal: "Frontiers in Computer Science"
+  title: "Time series forecasting-based Kubernetes autoscaling using Facebook Prophet and Long Short-Term Memory"
+  volume: 7
+  year: 2025
